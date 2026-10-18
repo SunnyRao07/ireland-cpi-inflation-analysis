@@ -1,4 +1,4 @@
-# Ireland Cost-of-Living and Inflation Tracker
+# Ireland CPI Inflation Analysis
 
 A data analytics project exploring historical inflation trends in Ireland using official Consumer Price Index (CPI) data from the Central Statistics Office (CSO).
 
